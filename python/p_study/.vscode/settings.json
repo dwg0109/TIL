@@ -1,5 +1,5 @@
 {
-  "python.pythonPath": "E:\\workspace\\TIL\\python\\p_study\\Scripts\\python.exe",
+  "python.pythonPath": "E:\\anaconda3\\python.exe",
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": true
 }
